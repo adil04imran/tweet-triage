@@ -1,4 +1,4 @@
-# 🍎 TweetTriage
+#  TweetTriage
 
 <div align="center">
 
