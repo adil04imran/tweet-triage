@@ -3,7 +3,7 @@
 <div align="center">
 
 **TweetTriage is an end-to-end AI support pipeline built on real Twitter data.**
-Built by Adil Imran
+
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
 ![Groq](https://img.shields.io/badge/LLM-Qwen3_via_Groq-orange?logo=groq)
