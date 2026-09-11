@@ -264,7 +264,7 @@ python human_judge_correlation.py    # human vs. LLM judge agreement table
 | Embeddings | [`sentence-transformers/all-MiniLM-L6-v2`](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2) — Hugging Face |
 | LLM | `qwen/qwen3.8-27b` via [Groq API](https://console.groq.com) (free tier) |
 | Vector DB | [ChromaDB](https://www.trychroma.com/) |
-| AI Coding Assistant | Google Antigravity / Gemini (used throughout development) |
+| AI Coding Assistant | Gemini & Multiple AI assistant's (used throughout development) |
 
 ---
 
