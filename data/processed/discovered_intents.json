@@ -1,0 +1,50 @@
+[
+    {
+        "intent_name": "ios_update_issue",
+        "description": "Issues related to downloading, installing, or bugs appearing immediately after an iOS update.",
+        "examples": [
+            "@AppleSupport many problems with text messaging since installing the update",
+            "@AppleSupport My iphone 6s battery dies sooner than before & apps crash after I updated to ios11."
+        ]
+    },
+    {
+        "intent_name": "battery_drain",
+        "description": "Complaints about poor battery life, fast draining, or device shutting down unexpectedly.",
+        "examples": [
+            "@AppleSupport My iphone 6s battery dies sooner than before",
+            "Why is my battery draining so fast on iOS 11 @AppleSupport"
+        ]
+    },
+    {
+        "intent_name": "app_crash_or_glitch",
+        "description": "Specific Apple apps crashing, freezing, or glitching (e.g., Music, Messages, Camera).",
+        "examples": [
+            "Weird screen glitches with ios11 @AppleSupport",
+            "@AppleSupport app is a disaster, and I have to reset my iPhone every other day."
+        ]
+    },
+    {
+        "intent_name": "billing_and_subscriptions",
+        "description": "Issues with Apple Music subscriptions, iTunes charges, or payment method declines.",
+        "examples": [
+            "@AppleSupport I am having trouble updating my payment method. It keeps saying my payment was declined.",
+            "Tengo un iPhone 8 en el cual no puedo usar mi suscripción a Apple Music"
+        ]
+    },
+    {
+        "intent_name": "feature_complaint",
+        "description": "Frustration over a specific UI/UX feature or a known bug like the 'I' typing glitch.",
+        "examples": [
+            "@AppleSupport come on already with this I problem guys. Seems like this should be fixed already.",
+            "Honestly it's 2017 AND I didn't pay $998 for my phone to replace I with !"
+        ]
+    },
+    {
+        "intent_name": "general_help",
+        "description": "General requests for support, how-to questions, or asking for customer service assistance.",
+        "examples": [
+            "@AppleSupport i need supports help please",
+            "Any way i can at least update the IOS please?"
+        ]
+    }
+]
