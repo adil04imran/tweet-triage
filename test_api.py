@@ -17,6 +17,6 @@ try:
         temperature=0.0
     )
     print(f"API Response: {response.choices[0].message.content}")
-    print("✅ Groq API is working correctly!")
+    print("Groq API is working correctly!")
 except Exception as e:
-    print(f"❌ API Error: {type(e).__name__}: {e}")
+    print(f"API Error: {type(e).__name__}: {e}")
